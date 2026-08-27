@@ -1,0 +1,14 @@
+[
+  {
+    "studentId": 1,
+    "status": "Pass"
+  },
+  {
+    "studentId": 2,
+    "status": "Pass"
+  },
+  {
+    "studentId": 3,
+    "status": "Fail"
+  }
+]

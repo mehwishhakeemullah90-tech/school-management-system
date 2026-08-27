@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Khan",
+    "age": 15,
+    "percentage": 82
+  },
+  {
+    "id": 2,
+    "name": "Sara Ahmed",
+    "age": 14,
+    "percentage": 91
+  },
+  {
+    "id": 3,
+    "name": "Hamza Malik",
+    "age": 16,
+    "percentage": 67
+  }
+]

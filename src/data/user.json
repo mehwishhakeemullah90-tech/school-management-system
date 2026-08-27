@@ -1,0 +1,25 @@
+[
+  {
+    "email": "teacher@school.com",
+    "password": "teacher123",
+    "role": "Teacher"
+  },
+  {
+    "email": "ali@school.com",
+    "password": "student123",
+    "role": "Student",
+    "studentId": 1
+  },
+  {
+    "email": "sara@school.com",
+    "password": "student123",
+    "role": "Student",
+    "studentId": 2
+  },
+  {
+    "email": "hamza@school.com",
+    "password": "student123",
+    "role": "Student",
+    "studentId": 3
+  }
+]
